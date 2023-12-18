@@ -16,3 +16,7 @@ async def f_indexT():
 @app.get("/users")
 async def f_indexT():
     return ('892939856')
+
+@app.get("/users")
+async def f_indexT():
+    return ('892939856')
